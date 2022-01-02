@@ -1,11 +1,19 @@
 Hello world!!!
 
 
+<<<<<<< HEAD
 change 1- added to fix the bug1
 
 change 2 -added to fix the bug1.
 
 change 3 - by team mate for CR2.
+=======
+change :- added to fix the bug1
+
+change:- added to fix the bug1.
+
+change :- WI3 for rebase.
+>>>>>>> 6840756 (WI3:File1 updated to add colon and new line for WI3)
 
 change to fix bug2.
 
