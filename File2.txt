@@ -1,3 +1,5 @@
 Well come to git demo!
 
 chnage added by teammate for WI5 on remopte master to 
+
+for bug4 on local master to test rebase with confilt.
